@@ -13,7 +13,9 @@ The system uses a smart glove to capture hand orientation and wirelessly transmi
 - PWM-based motor speed and direction control
 - Ultrasonic and IR-based hazard detection
 - Safety-veto mechanism for autonomous hazard avoidance
+## Project Demonstration
 
+[▶️ Watch the Project Demonstration](./project_demo.mp4)
 ## Hardware
 
 - ESP32 × 2
