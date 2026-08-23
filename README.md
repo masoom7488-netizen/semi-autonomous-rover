@@ -79,7 +79,7 @@ At the same time:
 
 ## Project Report
 
-[📄 View Project Report](./semi_autonomous_rover_report_Masoom_Ali.pdf)
+[📄 View Project Report](./Project_report.pdf)
 
 ## Safety Mechanism
 
